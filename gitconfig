@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gregkoutsa@gmail.com
+	name = Gregory Koutsantonis
